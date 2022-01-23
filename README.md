@@ -4,6 +4,8 @@
 
 #### A quem interessar e se disponibilizar a ajudar ou ser ajudado será muito bem vindo.
 
+#####Testando no Linux.
+
 
 
 ## Obrigado.
