@@ -8,7 +8,9 @@ public class primeiroprogramaeclipse {
 		
 		Gato gato = new Gato ();
 		
+		
 		System.out.println(gato);
+		
 		// TODO Auto-generated method stub
 		
 		/*int a = 2;
